@@ -1,0 +1,2 @@
+gambling: main.c menu.c logic.c SlotMachine.h
+	gcc -o gambling main.c menu.c logic.c SlotMachine.h
